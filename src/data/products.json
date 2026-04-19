@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "High quality wireless headphones with noise cancellation",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+    "originalPrice": 5999,
+    "discountPrice": 3999,
+    "isHot": true,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "description": "Fitness tracker with heart rate monitor",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+    "originalPrice": 8999,
+    "discountPrice": 6499,
+    "isHot": true,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand",
+    "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&q=80",
+    "originalPrice": 2499,
+    "discountPrice": 1999,
+    "isHot": false,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI and card reader",
+    "imageUrl": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&q=80",
+    "originalPrice": 3499,
+    "discountPrice": 2799,
+    "isHot": false,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with blue switches",
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80",
+    "originalPrice": 7999,
+    "discountPrice": 5999,
+    "isHot": true,
+    "inStock": false
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with precision tracking",
+    "imageUrl": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&q=80",
+    "originalPrice": 1999,
+    "discountPrice": 1499,
+    "isHot": false,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass",
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&q=80",
+    "originalPrice": 4999,
+    "discountPrice": 3499,
+    "isHot": true,
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Webcam",
+    "description": "Full HD webcam for online meetings",
+    "imageUrl": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=800&q=80",
+    "originalPrice": 3999,
+    "discountPrice": 2999,
+    "isHot": false,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "External Hard Drive",
+    "description": "1TB portable external hard drive",
+    "imageUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&q=80",
+    "originalPrice": 6499,
+    "discountPrice": 5499,
+    "isHot": false,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Gaming Chair",
+    "description": "Ergonomic gaming chair with lumbar support",
+    "imageUrl": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=800&q=80",
+    "originalPrice": 15999,
+    "discountPrice": 12999,
+    "isHot": true,
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Power Bank",
+    "description": "20000mAh fast charging power bank",
+    "imageUrl": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=800&q=80",
+    "originalPrice": 2999,
+    "discountPrice": 2199,
+    "isHot": false,
+    "inStock": true
+  }
+]

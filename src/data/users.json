@@ -1,0 +1,23 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@shop.com",
+    "password": "admin123",
+    "address": "Admin Office, 123 Main St",
+    "isAdmin": true
+  },
+  {
+    "username": "john",
+    "email": "john@example.com",
+    "password": "john123",
+    "address": "456 Oak Avenue, New York",
+    "isAdmin": false
+  },
+  {
+    "username": "sarah",
+    "email": "sarah@example.com",
+    "password": "sarah123",
+    "address": "789 Pine Road, Los Angeles",
+    "isAdmin": false
+  }
+]
